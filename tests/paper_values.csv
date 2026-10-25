@@ -1,0 +1,67 @@
+quantity,cluster,paper_value,tol,note
+counties_in_sample,,2055,0,Table 1
+counties_positive_recall,,1374,0,Table 1
+counties_with_salience,,992,0,Table 1
+counties_with_memory,,773,0,Table 1
+salience_mean_pct,,15.01,0.005,Table 1
+salience_median_pct,,7.29,0.005,Table 1
+salience_sd_pct,,23.51,0.005,Table 1
+memory_mean_months,,25.3,0.05,Table 1
+memory_median_months,,16,0.5,Table 1 reports 16; county-level median is 16.5 (event-level median is 13)
+memory_sd_months,,23.98,0.005,Table 1
+recall_pelt,,0.3061,0.00005,Results: 30.61% recall
+n,c1,59,0,Table 2
+n,c2,47,0,Table 2
+n,l1,247,0,Table 2
+n,l2,192,0,Table 2
+n,l3,228,0,Table 2
+takeup_mean_pct,c1,3.73,0.005,Table 2
+takeup_mean_pct,c2,19.91,0.005,Table 2
+takeup_mean_pct,l1,1.4,0.05,Table 2
+takeup_mean_pct,l2,1.65,0.005,Table 2
+takeup_mean_pct,l3,1.74,0.005,Table 2
+PC1_table2,c1,0.13,0.005,Table 2
+PC1_table2,c2,-1.93,0.005,Table 2
+PC1_table2,l1,1.43,0.005,Table 2
+PC1_table2,l2,0.1,0.005,Table 2
+PC1_table2,l3,0.74,0.005,Table 2
+PC2_table2,c1,1.07,0.005,Table 2
+PC2_table2,c2,1.26,0.005,Table 2
+PC2_table2,l1,0.37,0.005,Table 2
+PC2_table2,l2,-2.16,0.005,Table 2
+PC2_table2,l3,-0.51,0.005,Table 2
+PC3_table2,c1,-1.22,0.005,Table 2
+PC3_table2,c2,-2.24,0.005,Table 2
+PC3_table2,l1,-0.82,0.005,Table 2
+PC3_table2,l2,-0.92,0.005,Table 2
+PC3_table2,l3,-0.93,0.005,Table 2
+salience_mean,c1,11.28,0.005,Table 2
+salience_mean,c2,1.97,0.005,Table 2
+salience_mean,l1,25.25,0.005,Table 2
+salience_mean,l2,14.77,0.005,Table 2
+salience_mean,l3,3.02,0.005,Table 2
+salience_median,c1,7.76,0.005,Table 2
+salience_median,c2,1.01,0.005,Table 2
+salience_median,l1,16.16,0.005,Table 2
+salience_median,l2,9.72,0.005,Table 2
+salience_median,l3,2.21,0.005,Table 2
+salience_sd,c1,12,0.05,Table 2 (rounded to integer in paper)
+salience_sd,c2,2.17,0.005,Table 2
+salience_sd,l1,28.25,0.005,Table 2
+salience_sd,l2,17.36,0.005,Table 2
+salience_sd,l3,2.87,0.005,Table 2
+memory_mean,c1,26.88,0.005,Table 2
+memory_mean,c2,8.43,0.005,Table 2
+memory_mean,l1,42.64,0.005,Table 2
+memory_mean,l2,28.31,0.005,Table 2
+memory_mean,l3,7.03,0.005,Table 2
+memory_median,c1,21,0,Table 2
+memory_median,c2,8,0,Table 2
+memory_median,l1,35,0,Table 2
+memory_median,l2,21,0,Table 2
+memory_median,l3,6,0,Table 2
+memory_sd,c1,18,0.05,Table 2 (rounded to integer in paper)
+memory_sd,c2,5.28,0.005,Table 2
+memory_sd,l1,27.16,0.005,Table 2
+memory_sd,l2,19.66,0.005,Table 2
+memory_sd,l3,3.48,0.005,Table 2

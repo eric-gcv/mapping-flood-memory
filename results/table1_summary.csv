@@ -1,0 +1,12 @@
+"statistic","value"
+"counties_in_sample",2055
+"counties_positive_recall",1374
+"counties_with_salience",992
+"counties_with_memory",773
+"salience_mean_pct",15.0123229879449
+"salience_median_pct",7.2940225442282
+"salience_sd_pct",23.5121021366001
+"memory_mean_months",25.2958171625701
+"memory_median_months",16.5
+"memory_sd_months",23.9763100561566
+"recall_pelt",0.306109406952965

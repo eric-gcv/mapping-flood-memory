@@ -1,0 +1,19 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+*.RDataTmp
+~$*
+Rplots.pdf
+# credentials / local config
+config.yml
+*.yml
+# raw and derived data are not versioned (see data/README.md)
+data/*
+!data/README.md
+*.db
+*.zip
+*.tar.gz
+# generated figures
+results/figures/
