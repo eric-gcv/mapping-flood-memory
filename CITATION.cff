@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this code or the county-level results, please cite the paper below."
+title: "Mapping Flood Memory: code and county-level results"
+type: software
+authors:
+  - family-names: Contreras
+    given-names: Eric
+    orcid: "https://orcid.org/0009-0004-0263-5410"
+  - family-names: Veigel
+    given-names: Nadja
+    orcid: "https://orcid.org/0000-0002-8044-2751"
+  - family-names: Suda
+    given-names: Jacek
+    orcid: "https://orcid.org/0000-0002-8259-533X"
+  - family-names: Kreibich
+    given-names: Heidi
+    orcid: "https://orcid.org/0000-0001-6274-3625"
+  - family-names: Cominola
+    given-names: Andrea
+    orcid: "https://orcid.org/0000-0002-4031-4704"
+repository-code: "https://github.com/eric-gcv/mapping-flood-memory"
+abstract: "Per-county estimates of flood-insurance salience (increase in NFIP take-up after a flood) and memory (months until take-up returns to baseline) for the contiguous US, 2010-2021, with the code to reproduce them."
+keywords:
+  - flood insurance
+  - NFIP
+  - change point detection
+  - risk perception
+  - social vulnerability
+preferred-citation:
+  type: article
+  title: "Mapping Flood Memory: How Risk Perception and Social Vulnerability Drive Flood Insurance Patterns in the U.S."
+  journal: "International Journal of Disaster Risk Reduction"
+  doi: "10.1016/j.ijdrr.2026.106162"
+  authors:
+    - family-names: Contreras
+      given-names: Eric
+    - family-names: Veigel
+      given-names: Nadja
+    - family-names: Suda
+      given-names: Jacek
+    - family-names: Kreibich
+      given-names: Heidi
+    - family-names: Cominola
+      given-names: Andrea
